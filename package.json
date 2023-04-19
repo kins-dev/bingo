@@ -1,0 +1,11 @@
+{
+    "main": "bingo/index.html",
+    "name": "bingo",
+    "window": {
+      "title": "node-webkit demo",
+      "icon": "icon.png",
+      "toolbar": false,
+      "frame": true,
+      "kiosk": true
+    }
+  }
