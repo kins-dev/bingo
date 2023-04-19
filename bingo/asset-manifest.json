@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/bingo/static/css/main.d0cadf48.css",
+    "main.js": "/bingo/static/js/main.72038302.js",
+    "static/media/shuffle.wav": "/bingo/static/media/shuffle.61b100e7a51014b7a8dc.wav",
+    "static/media/paypalme.png": "/bingo/static/media/paypalme.06c8e614dd127ff3ec56.png",
+    "static/media/venmo.jpg": "/bingo/static/media/venmo.49cc1c3e3c632818d749.jpg",
+    "static/media/RD-logo.png": "/bingo/static/media/RD-logo.656c176b4c32e64d40c3.png",
+    "static/media/chime11.mp3": "/bingo/static/media/chime11.02daa1b64e751b66131e.mp3",
+    "static/media/chime12.mp3": "/bingo/static/media/chime12.56f4e130ebaa3180f9ea.mp3",
+    "static/media/chime1.mp3": "/bingo/static/media/chime1.619a4e1d62b05458bdef.mp3",
+    "static/media/chime2.mp3": "/bingo/static/media/chime2.fefa5161f9f213515f95.mp3",
+    "static/media/chime4.mp3": "/bingo/static/media/chime4.2c824b1be4617378b658.mp3",
+    "static/media/chime9.mp3": "/bingo/static/media/chime9.fb2ff923248d60cb3e9b.mp3",
+    "static/media/chime5.mp3": "/bingo/static/media/chime5.01e6a93d2342bbe250fe.mp3",
+    "static/media/chime10.mp3": "/bingo/static/media/chime10.503f6d793136c3a37e53.mp3",
+    "static/media/chime8.mp3": "/bingo/static/media/chime8.f6fde945022d409a0edc.mp3",
+    "static/media/chime3.mp3": "/bingo/static/media/chime3.c9d907a1ed3bd63e4fad.mp3",
+    "static/media/chime6.mp3": "/bingo/static/media/chime6.5f73ff6c43f261f59b8c.mp3",
+    "static/media/chime7.mp3": "/bingo/static/media/chime7.a1a86992bfc996222c13.mp3",
+    "static/media/pop3.mp3": "/bingo/static/media/pop3.8a73cb2f3664ceaf2ac9.mp3",
+    "static/media/pop2.mp3": "/bingo/static/media/pop2.4f42cdb75272bb58d199.mp3",
+    "static/media/pop1.mp3": "/bingo/static/media/pop1.f95eda17bb51e13390e4.mp3",
+    "static/media/pop4.mp3": "/bingo/static/media/pop4.2d15753a42753593bc84.mp3",
+    "static/media/logo.svg": "/bingo/static/media/logo.af6c8cf45db12f80a117421f371a0daf.svg",
+    "index.html": "/bingo/index.html",
+    "main.d0cadf48.css.map": "/bingo/static/css/main.d0cadf48.css.map",
+    "main.72038302.js.map": "/bingo/static/js/main.72038302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0cadf48.css",
+    "static/js/main.72038302.js"
+  ]
+}
